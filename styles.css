@@ -19,3 +19,12 @@ li {
   box-shadow: 2px 0px 3px #444;
   padding: 25px;
 }
+.qs-list li {
+  padding: 5px;
+  margin-top: 10px;
+  background-color: aliceblue;
+}
+.qs-body button {
+  margin-top: 25px;
+  padding: 5px 10px;
+}
